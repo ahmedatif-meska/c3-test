@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-The repo is a single file, `kanban.html` ("Flowlane", a Kanban project-management app). It has no build step, package manager, tests, linter or git history. Everything is vanilla HTML/CSS/JS in one file (~1700 lines): `<style>` (lines ~10–394), markup (~395–642), then one `<script>` (~643–end). The only external dependency is Google Fonts (Inter, Sora).
+The repo is a single file, `index.html` ("Flowlane", a Kanban project-management app). It has no build step, package manager, tests, linter or git history. Everything is vanilla HTML/CSS/JS in one file (~1700 lines): `<style>` (lines ~10–394), markup (~395–642), then one `<script>` (~643–end). The only external dependency is Google Fonts (Inter, Sora).
 
-**Run:** open `kanban.html` in a browser (or serve the directory statically). Verify changes manually in the browser.
+**Run:** open `index.html` in a browser (or serve the directory statically). Verify changes manually in the browser.
 
 ## Architecture
 
